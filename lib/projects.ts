@@ -35,7 +35,7 @@ export const PROJECTS: Project[] = [
   },
   {
     slug: 'vila-luka',
-    title: 'Vila Luka',
+    title: 'Vila Luke',
     subtitle: 'Moderna porodična vila',
     location: 'Naselje Luke, Visoko',
     shortDescription:
