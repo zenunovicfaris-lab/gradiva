@@ -1,0 +1,14 @@
+# Smjestite fotografije projekata ovdje:
+#
+# staniste-thumb.jpg       — Stanište, thumbnail za karticu (800x600 preporučeno)
+# staniste-01.jpg          — Stanište, galerija
+# staniste-02.jpg
+# staniste-03.jpg
+#
+# vila-luka-thumb.jpg      — Vila Luka, thumbnail (800x600)
+# rezidencija-thumb.jpg    — Rezidencija Visoko, thumbnail (800x600)
+#
+# og-image.jpg             — Open Graph slika (1200x630) za dijeljenje na mreži
+#
+# Format: JPG ili WebP | Maks. preporučena veličina: 500KB po slici
+# next/image će automatski servirati WebP u browseru koji ga podržava.
